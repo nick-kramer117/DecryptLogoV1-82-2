@@ -95,6 +95,7 @@ namespace Console_nt117
 			}
 			catch (Exception ex)
 			{
+				Console.WriteLine(ex.Message);
 				return true;
 			}
 		}
