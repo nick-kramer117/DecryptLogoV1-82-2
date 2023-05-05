@@ -33,6 +33,6 @@ This vulnerability has been tested on a Siemens LOGO PLC (Model: 6ED1052-1MD08-0
 ### Recommendations to minimize the risk of this vulnerability:
 1. Isolate the PLC from the global network (Internet);
 2. Limit access of network equipment, to the PLC on port 10005.
-3. The password must not be associated with anything (for example Admin). It is desirable to create passwords using random password generators.
+3. The password must not be associated with anything (for example Admin - Administrator). It is desirable to create passwords using random password generators.
 
 ## Important! This software is designed to diagnose the safety of automation components based on a LOGO PLC.
