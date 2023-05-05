@@ -30,6 +30,8 @@ This program sends a "password request" packet, receives a response from the PLC
 
 This vulnerability has been tested on a Siemens LOGO PLC (Model: 6ED1052-1MD08-0BA0).
 
+![](Test.png)<br>
+
 ### Recommendations to minimize the risk of this vulnerability:
 1. Isolate the PLC from the global network (Internet);
 2. Limit access of network equipment, to the PLC on port 10005.
